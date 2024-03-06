@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.8.cpp
+D:\programyvanya\OOP1.8\OOP1.8\Payment.cpp(132,24): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\programyvanya\OOP1.8\OOP1.8\Payment.cpp(137,24): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+     Creating library D:\programyvanya\OOP1.8\x64\Debug\UnitTest1.8.lib and object D:\programyvanya\OOP1.8\x64\Debug\UnitTest1.8.exp
+  UnitTest1.8.vcxproj -> D:\programyvanya\OOP1.8\x64\Debug\UnitTest1.8.dll
